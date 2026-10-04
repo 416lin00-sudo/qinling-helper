@@ -1,2 +1,2 @@
-1.1.6
+1.1.7
 https://github.com/416lin00-sudo/crtools/releases/download/v1.1.6/update.exe
