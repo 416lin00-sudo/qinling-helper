@@ -1,0 +1,2 @@
+1.1.6
+https://github.com/416lin00-sudo/qinling-helper/releases/download/v1.1.6/update.exe
